@@ -30,14 +30,14 @@ IT대학 글로벌미디어학부<br/>
 
 <br>
 
-### ✨ **Project** ✨
+### ✨ **Project-FrontEnd** ✨
 
-|Activity|Part|Date|Github|
+|Project|Activity|Date|Github|
 |:---:|:---:|:---:|:---:|
-|연합동아리 CMC|Front-End Developer|2023|[https://github.com/Zelusik/frontend](https://github.com/Zelusik/frontend)|
-|소동아리 언타이틀 Up해커톤|Front-End Developer|2022|[https://github.com/moyeo-portfolio/moyeo-santarun-client](https://github.com/moyeo-portfolio/moyeo-santarun-client)|
-|창업동아리 KCOOK 활동|Front-End Developer|2022|[https://github.com/kcook-cake/K.Cook-Client](https://github.com/kcook-cake/K.Cook-Client)|
-|교내 프로젝트|Front-End Developer|2022|[https://github.com/Pick-IT-SSU/frontend](https://github.com/Pick-IT-SSU/frontend)|
-|교내 프로젝트|Front-End Developer|2021|[https://github.com/choiyeju/5-_finally](https://github.com/choiyeju/5-_finally)|
+|[Eatery]()|연합동아리|2023|[https://github.com/Zelusik/frontend](https://github.com/Zelusik/frontend)|
+|[SantaRun](http://moyeo.org/santarun/)|소동아리 언타이틀 Up해커톤|2022|[https://github.com/moyeo-portfolio/moyeo-santarun-client](https://github.com/moyeo-portfolio/moyeo-santarun-client)|
+|[KCOOK](http://moyeo.org/kcook/)|Front-End Developer|2022|[https://github.com/kcook-cake/K.Cook-Client](https://github.com/kcook-cake/K.Cook-Client)|
+|[PICK-IT](http://moyeo.org/pickit/)|Front-End Developer|2022|[https://github.com/Pick-IT-SSU/frontend](https://github.com/Pick-IT-SSU/frontend)|
+|[사계절 추천 노래](http://moyeo.org/season/)|Front-End Developer|2021|[https://github.com/choiyeju/5-_finally](https://github.com/choiyeju/5-_finally)|
 
 </div>
