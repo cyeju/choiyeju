@@ -1,10 +1,6 @@
 <div align="center">
     <h1>🙂Welcome to <b>Yeju's Github</b>🙂</h1>
-
-### 👉[Moyeo 바로가기](http://moyeo.org)👈
-
-
-
+    
 <br>
 
 ### **Univ**
@@ -27,6 +23,7 @@ IT대학 글로벌미디어학부<br/>
 
 |Activity|Part|Date|
 |:---:|:---:|:---:|
+|연합동아리 CMC|Front-End Developer|2023|
 |소동아리 언타이틀 Up해커톤|Front-End Developer|2022|
 |창업동아리 KCOOK 활동|Front-End Developer|2022|
 |교내 프로젝트|Front-End Developer|2022|
