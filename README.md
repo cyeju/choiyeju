@@ -34,12 +34,12 @@ IT대학 글로벌미디어학부<br/>
     
 [노션 포트폴리오](https://daily-bracket-ec2.notion.site/bcf1e5f172f64ef1a079c34829bb09a6)
 
-|Project|Activity|Date|Github|
-|:---:|:---:|:---:|:---:|
-|[Eatery]()|연합동아리|2023.01 ~ 2023.03|[https://github.com/Zelusik/frontend](https://github.com/Zelusik/frontend)|
-|[SantaRun](http://moyeo.org/santarun/)|소동아리 언타이틀 Up해커톤|2022.11 ~ 2022.11|[https://github.com/moyeo-portfolio/moyeo-santarun-client](https://github.com/moyeo-portfolio/moyeo-santarun-client)|
-|[KCOOK](http://moyeo.org/kcook/)|스타트업|2022.07 ~ 2022.10|[https://github.com/kcook-cake/K.Cook-Client](https://github.com/kcook-cake/K.Cook-Client)|
-|[PICK-IT](http://moyeo.org/pickit/)|교내활동|2022.03 ~ 2022.06|[https://github.com/Pick-IT-SSU/frontend](https://github.com/Pick-IT-SSU/frontend)|
-|[사계절 추천 노래](http://moyeo.org/season/)|교내활동|2021.03 ~ 2021.06|[https://github.com/choiyeju/5-_finally](https://github.com/choiyeju/5-_finally)|
+|Project|Date|Github|
+|:---:|:---:|:---:|
+|[Eatery]()|2023.01 ~ 2023.03|[https://github.com/Zelusik/frontend](https://github.com/Zelusik/frontend)|
+|[SantaRun](http://moyeo.org/santarun/)|2022.11 ~ 2022.11|[https://github.com/moyeo-portfolio/moyeo-santarun-client](https://github.com/moyeo-portfolio/moyeo-santarun-client)|
+|[KCOOK](http://moyeo.org/kcook/)|2022.07 ~ 2022.10|[https://github.com/kcook-cake/K.Cook-Client](https://github.com/kcook-cake/K.Cook-Client)|
+|[PICK-IT](http://moyeo.org/pickit/)|2022.03 ~ 2022.06|[https://github.com/Pick-IT-SSU/frontend](https://github.com/Pick-IT-SSU/frontend)|
+|[사계절 추천 노래](http://moyeo.org/season/)|2021.03 ~ 2021.06|[https://github.com/choiyeju/5-_finally](https://github.com/choiyeju/5-_finally)|
 
 </div>
