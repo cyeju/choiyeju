@@ -3,7 +3,7 @@
     
 <br>
 
-### **Univ**
+### ✨ **Univ** ✨
 
 숭실대학교<br/>
 IT대학 글로벌미디어학부<br/>
@@ -11,22 +11,33 @@ IT대학 글로벌미디어학부<br/>
 
 <br>
 
-### **Tech Stack**
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/next.js-FCC624?style=for-the-badge&logo=next.js&logoColor=black"> <img src="https://img.shields.io/badge/typescript-339AF0?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/scss-1572B6?style=for-the-badge&logo=scss&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-
-<img src="https://img.shields.io/badge/centOS7-4FC08D?style=for-the-badge&logo=centOS&logoColor=black"> <img src="https://img.shields.io/badge/apache-DD0031?style=for-the-badge&logo=apache&logoColor=black"> <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/postgreSQL-4479A1?style=for-the-badge&logo=postgreSQL&logoColor=white">
+### ✨ **Tech Stack** ✨
+<p>
+  <img src="https://img.shields.io/badge/-React-blue"/>
+  <img src="https://img.shields.io/badge/-Typescript.js-red"/>
+  <img src="https://img.shields.io/badge/-SCSS-yellow"/>
+  <img src="https://img.shields.io/badge/-HTML5-blue"/>
+  <img src="https://img.shields.io/badge/-CSS3-orange"/>
+  <img src="https://img.shields.io/badge/-Javascript-red"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-CentOS7-orange"/>
+  <img src="https://img.shields.io/badge/-Spring-black"/>
+  <img src="https://img.shields.io/badge/-Apache Tomcat-green"/>
+  <img src="https://img.shields.io/badge/-java-violet"/>
+  <img src="https://img.shields.io/badge/-postgreSQL-yellow"/>
+</p>
 
 <br>
 
-### **Project**
+### ✨ **Project** ✨
 
-|Activity|Part|Date|
-|:---:|:---:|:---:|
-|연합동아리 CMC|Front-End Developer|2023|
-|소동아리 언타이틀 Up해커톤|Front-End Developer|2022|
-|창업동아리 KCOOK 활동|Front-End Developer|2022|
-|교내 프로젝트|Front-End Developer|2022|
-|교내 프로젝트|Front-End Developer|2021|
+|Activity|Part|Date|Github|
+|:---:|:---:|:---:|:---:|
+|연합동아리 CMC|Front-End Developer|2023|[https://github.com/Zelusik/frontend](https://github.com/Zelusik/frontend)|
+|소동아리 언타이틀 Up해커톤|Front-End Developer|2022|[https://github.com/moyeo-portfolio/moyeo-santarun-client](https://github.com/moyeo-portfolio/moyeo-santarun-client)|
+|창업동아리 KCOOK 활동|Front-End Developer|2022|[https://github.com/kcook-cake/K.Cook-Client](https://github.com/kcook-cake/K.Cook-Client)|
+|교내 프로젝트|Front-End Developer|2022|[https://github.com/Pick-IT-SSU/frontend](https://github.com/Pick-IT-SSU/frontend)|
+|교내 프로젝트|Front-End Developer|2021|[https://github.com/choiyeju/5-_finally](https://github.com/choiyeju/5-_finally)|
 
 </div>
